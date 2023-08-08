@@ -1,6 +1,6 @@
 School Website
 
-You can reach to website with this url : https://restaurantwebbsite.netlify.app/
+You can reach to website with this url : https://udemigcollege.netlify.app/
 
 Used technologies
 
