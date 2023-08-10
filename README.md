@@ -20,5 +20,4 @@
 </body>
 </html>
 
-
 ![schoolwebsite](3school.gif)
