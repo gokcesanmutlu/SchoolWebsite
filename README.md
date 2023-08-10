@@ -20,5 +20,5 @@
 </body>
 </html>
 
-Screenshot 
+
 ![schoolwebsite](3school.gif)
