@@ -6,5 +6,5 @@ Used technologies
 
 This site was created using CSS, HTML and Boostrap.
 
-Screenshot
+<p>Screenshot<p>
 ![schoolwebsite](3school.gif)
